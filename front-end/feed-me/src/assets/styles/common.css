@@ -10,7 +10,8 @@
 }
 
 .form-inputs{
-
+    color: var(--primary-dark-blue);
+    border: 1px solid var(--primary-dark-blue)
 }
 
 .form-headings{
